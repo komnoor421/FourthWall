@@ -22,12 +22,12 @@ $expand_json_link = "https://graph.facebook.com/{$expand_id}/photos?fields=pictu
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="FourthWallLogo-Icon.jpeg" rel="icon" type="image/x-icon" />
+    <link href="img/FourthWallLogo-Icon.jpeg" rel="icon" type="image/x-icon" />
 
     <title>Fourth Wall</title>
 
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
@@ -79,7 +79,7 @@ $expand_json_link = "https://graph.facebook.com/{$expand_id}/photos?fields=pictu
           </div>
           <div class="col-md-4 logo">
             <a href="https://www.facebook.com/projectb.atl">
-              <img src="projectb.png" class="logoPic"/>
+              <img src="img/projectb.png" class="logoPic"/>
             </a>
           </div>
         </div>
